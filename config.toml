@@ -1,0 +1,112 @@
+## Basic Configuration
+
+baseurl = "https://juaniurruty.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Juan Ignacio Urruty"
+title = "Juan Ignacio Urruty"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "Juan Ignacio Urruty"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Juan Ignacio Urruty"
+#intro = "Licenciado en Economía y Filosofía"
+#description = "Ayudante en investigación y enseñanza. Departamento de Economía, FCEA-UdelaR"
+#authorimage = "perfil.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+#[params.meta]
+#description = "Simple minimalist theme"
+#keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "juaniurruty"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "juaniurruty"
+twitter = "juaniurruty"
+#facebook = "<username>"
+#google = "<username>"
+#googlescholar = "<account_id>"
+#orcid = "0123-4567-8901-2345"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#buymeacoffee = "<username>"
+#kaggle = "<username>"
+#holopin = "<username>"
+email = "juaniurruty9@gmail.com"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2023 [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "Posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Sobre mí"
+    identifier = "sobre_mi"
+    weight = 200
+    url = "/sobre_mi/"
+[[menu.main]]
+    name = "Investigación"
+    identifier = "Investigación"
+    weight = 300
+    url = "/investigacion/"
+[[menu.main]]
+    name = "Enseñanza"
+    identifier = "Enseñanza"
+    weight = 400
+    url = "/enseñanza/"
+[[menu.main]]
+    name = "CV"
+    identifier = "CV"
+    weight = 500
+    url = "https://www.dropbox.com/scl/fi/5lorzsxulzpoi6k1fhq2b/CV_espa-ol.pdf?dl=0&rlkey=mokz1e762s3tsdk6zc9i7p36c"
