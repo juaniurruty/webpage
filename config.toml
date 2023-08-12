@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://juaniurruty.com"
+baseurl = "https://peppy-hamster-e7b7a9.netlify.app/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
