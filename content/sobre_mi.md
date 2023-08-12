@@ -16,4 +16,4 @@ En la misma línea, integro el equipo docente de la unidad curricular de [**Éti
 
 Mis líneas de interés son las siguientes: filosofía política, organización industrial y microeconomía aplicada.
 
-Pueden acceder a mi CV a través del siguiente [**enlace**](https://www.dropbox.com/scl/fi/5lorzsxulzpoi6k1fhq2b/CV_espa-ol.pdf?dl=0&rlkey=mokz1e762s3tsdk6zc9i7p36c).
+Pueden acceder a mi CV a través del siguiente **enlace**.
