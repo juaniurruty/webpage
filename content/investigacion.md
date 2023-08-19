@@ -16,7 +16,7 @@ En proceso:
 
 - Una evaluación del impacto de las cláusulas de género en el empleo y salario de las mujeres. Tesis de Maestría en Economía.
 
-- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto enviado en el marco de la convocatoria del programa de iniciación a la investigación, CSIC - UdelaR.
+- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto enviado en el marco de la convocatoria del programa de iniciación a la investigación, CSIC - Udelar.
 
 &nbsp;
 
