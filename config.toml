@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Juan Ignacio Urruty"
-#intro = "Licenciado en Economía y Filosofía"
+intro = "Economía & Filosofía"
 #description = "Ayudante en investigación y enseñanza. Departamento de Economía, FCEA-UdelaR"
 #authorimage = "perfil.jpg"
 dateformat = "Jan 2, 2006"

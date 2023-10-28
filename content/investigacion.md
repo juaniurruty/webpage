@@ -22,6 +22,8 @@ En proceso:
 
 Trabajo en proyectos:
 
+- 2023: Las discusiones sobre igualdad, mínimos sociales y bienestar en Uruguay entre las décadas de 1920 y 2020. Instituto de Economía, Grupo Ética, Justicia y Economía.
+
 - 2023: Empleo Garantizado por el Estado y Renta Básica Universal. Instituto de Economía, Grupo Ética, Justicia y Economía.
 
 - 2022: Brechas de género y negociación colectiva. Instituto de Economía, Grupo de Economía Laboral
