@@ -9,3 +9,4 @@ Licenciatura en Economía - FCEA, Udelar:
 
   - Slides 2do Taller
   - Slides 3er Taller
+  - Slides de EGE-RBU y Coyuntura de mercado laboral

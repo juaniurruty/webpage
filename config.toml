@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Juan Ignacio Urruty"
 intro = "Economía & Filosofía"
 #description = "Ayudante en investigación y enseñanza. Departamento de Economía, FCEA-UdelaR"
-#authorimage = "perfil.jpg"
+authorimage = "perfil2.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
