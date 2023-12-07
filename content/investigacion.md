@@ -4,23 +4,23 @@ title: "Investigación"
 draft: false
 ---
 
-Documentos de trabajo:
+**Documentos de trabajo**:
 
-- Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario. DT 22 - 2023. Instituto de Economía, FCEA - Udelar. Disponible [**aquí**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html)
+- [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). DT 22 - 2023. Instituto de Economía, FCEA - Udelar.
 
-- Justicia e incentivos: desde la competencia hacia la cooperación. Tesina de Licenciatura en Filosofía. Pueden acceder a la misma a través del siguiente [**enlace**](https://github.com/juaniurruty/Tesina-filosofia)
+- [**Justicia e incentivos: desde la competencia hacia la cooperación**](https://github.com/juaniurruty/Tesina-filosofia). Tesina de Licenciatura en Filosofía.
 
-&nbsp;
 
-En proceso:
+
+**En proceso**:
 
 - Una evaluación del impacto de las cláusulas de género en el empleo y salario de las mujeres. Tesis de Maestría en Economía.
 
-- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto enviado en el marco de la convocatoria del programa de iniciación a la investigación, CSIC - Udelar.
+- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto enviado en el marco de la convocatoria del programa de iniciación a la investigación, CSIC - Udelar (esperando resolución).
 
-&nbsp;
 
-Trabajo en proyectos:
+
+**Trabajo en proyectos**:
 
 - 2023: Las discusiones sobre igualdad, mínimos sociales y bienestar en Uruguay entre las décadas de 1920 y 2020. Instituto de Economía, Grupo Ética, Justicia y Economía.
 
