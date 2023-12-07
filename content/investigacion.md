@@ -6,9 +6,9 @@ draft: false
 
 Documentos de trabajo:
 
-- Justicia e incentivos: desde la competencia hacia la cooperación. Tesina de Licenciatura en Filosofía. 
+- Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario. DT 22 - 2023. Instituto de Economía, FCEA - Udelar. Disponible [**aquí**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html)
 
-Pueden acceder a la misma a través del siguiente [**enlace**](https://github.com/juaniurruty/Tesina-filosofia)
+- Justicia e incentivos: desde la competencia hacia la cooperación. Tesina de Licenciatura en Filosofía. Pueden acceder a la misma a través del siguiente [**enlace**](https://github.com/juaniurruty/Tesina-filosofia)
 
 &nbsp;
 
