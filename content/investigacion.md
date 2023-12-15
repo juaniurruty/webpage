@@ -6,9 +6,9 @@ draft: false
 
 **Documentos de trabajo**:
 
-- [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). DT 22 - 2023. Instituto de Economía, FCEA - Udelar.
+- [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). Documento de trabajo, 22 - 2023. Instituto de Economía, FCEA - Udelar.
 
-- [**Justicia e incentivos: desde la competencia hacia la cooperación**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-investigacion-estudiantil/item/justicia-e-incentivos-desde-la-competencia-hacia-la-cooperacion.html). DIE 03 - 2023. Instituto de Economía, FCEA - Udelar.
+- [**Justicia e incentivos: desde la competencia hacia la cooperación**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-investigacion-estudiantil/item/justicia-e-incentivos-desde-la-competencia-hacia-la-cooperacion.html). Documento de investigación estudiantil, 03 - 2023. Instituto de Economía, FCEA - Udelar.
 
 
 
