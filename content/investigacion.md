@@ -8,7 +8,7 @@ draft: false
 
 - [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). DT 22 - 2023. Instituto de Economía, FCEA - Udelar.
 
-- [**Justicia e incentivos: desde la competencia hacia la cooperación**](https://github.com/juaniurruty/Tesina-filosofia). Tesina de Licenciatura en Filosofía.
+- [**Justicia e incentivos: desde la competencia hacia la cooperación**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-investigacion-estudiantil/item/justicia-e-incentivos-desde-la-competencia-hacia-la-cooperacion.html). DIE 03 - 2023. Instituto de Economía, FCEA - Udelar.
 
 
 
@@ -16,7 +16,7 @@ draft: false
 
 - Una evaluación del impacto de las cláusulas de género en el empleo y salario de las mujeres. Tesis de Maestría en Economía.
 
-- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto enviado en el marco de la convocatoria del programa de iniciación a la investigación, CSIC - Udelar (esperando resolución).
+- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto de Iniciación a la Investigación, CSIC - Udelar.
 
 
 
