@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Juan Ignacio Urruty"
 intro = "Economía & Filosofía"
-#description = "Ayudante en investigación y enseñanza. Departamento de Economía, FCEA-UdelaR"
+#description = "Ayudante en investigación y enseñanza. Departamento de Economía, FCEA-Udelar"
 authorimage = "perfil2.png"
 dateformat = "Jan 2, 2006"
 
@@ -75,7 +75,7 @@ email = "ignacio.urruty@fcea.edu.uy"
 
 ## Extras
 [params.extra]
-copyright = "© 2023 [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2023 Juan Ignacio Urruty [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
@@ -109,4 +109,4 @@ displayrssicon = true
     name = "CV"
     identifier = "CV"
     weight = 500
-    url = "https://www.dropbox.com/scl/fi/c259fcigiqggr8kpvmi46/CV_espa-ol.pdf?rlkey=5hfi2gp6iq7w8w1n43d3mcy13&dl=0"
+    url = ""
