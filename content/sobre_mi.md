@@ -16,4 +16,4 @@ En la misma línea, integro el equipo docente de la unidad curricular de [**Éti
 
 Mis líneas de interés son las siguientes: filosofía política, organización industrial y microeconomía aplicada.
 
-Pueden acceder a mi CV a través del siguiente [**enlace**]().
+Pueden acceder a mi CV a través del siguiente [**enlace**](https://www.dropbox.com/scl/fi/xdmg9su7i3vpm60sb0iry/CV-Juan-Ignacio-Urruty.pdf?rlkey=xl9d8t7ht5naoj05wwtt05up9&dl=0).

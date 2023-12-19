@@ -14,7 +14,7 @@ draft: false
 
 **En proceso**:
 
-- Una evaluación del impacto de las cláusulas de género en el empleo y salario de las mujeres. Tesis de Maestría en Economía.
+- Negociación colectiva y género: el impacto de las cláusulas de género en el mercado laboral uruguayo. Tesis de Maestría en Economía.
 
 - Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto de Iniciación a la Investigación, CSIC - Udelar.
 
