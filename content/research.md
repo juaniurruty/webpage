@@ -1,10 +1,10 @@
 ---
-title: "Investigación"
+title: "Research"
 #date: 2023-07-27T17:11:22-03:00
 draft: false
 ---
 
-**Documentos de trabajo**:
+**Working Papers**:
 
 - [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). Documento de trabajo, 22 - 2023. Instituto de Economía, FCEA - Udelar.
 
@@ -12,19 +12,12 @@ draft: false
 
 
 
-**En proceso**:
+**Work in progress**:
 
-- Negociación colectiva y género: el impacto de las cláusulas de género en el mercado laboral uruguayo. Tesis de Maestría en Economía.
+- Collective Bargaining and Gender: The impact of gender clauses in the uruguayan labor market. Master in Economics Thesis.
 
-- Un análisis del mercado de compras estatales y los mercados minoristas para una variedad de productos. Proyecto de Iniciación a la Investigación, CSIC - Udelar.
+- An analysis of public procurement and retails markets for a variety of goods. Research Initiation Project, CSIC - Udelar.
 
 
 
-**Trabajo en proyectos**:
-
-- 2023: Las discusiones sobre igualdad, mínimos sociales y bienestar en Uruguay entre las décadas de 1920 y 2020. Instituto de Economía, Grupo Ética, Justicia y Economía.
-
-- 2023: Empleo Garantizado por el Estado y Renta Básica Universal. Instituto de Economía, Grupo Ética, Justicia y Economía.
-
-- 2022: Brechas de género y negociación colectiva. Instituto de Economía, Grupo de Economía Laboral
 
