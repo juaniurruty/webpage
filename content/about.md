@@ -14,4 +14,4 @@ As a research assistant, I am part of the [**Ethics, Justice and Economy**](http
 
 My research interests are: political philosophy, industrial organization and applied microeconomics.
 
-My CV is available [**here**](https://www.dropbox.com/scl/fi/hhajsjwut1fn61sk2ax2k/CV-Eng.pdf?rlkey=7jh6z79jzd0z9eyv7ytxop6pu&dl=0).
+My CV is available [**here**](https://www.dropbox.com/scl/fi/onpengagmhzsbu04ygzrg/CV-Eng.pdf?rlkey=6gtvk41za8f0lcegj24xgsrre&st=wfr9w0l7&dl=0).
