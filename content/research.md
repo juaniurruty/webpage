@@ -4,6 +4,8 @@ title: "Research"
 draft: false
 ---
 
+**My research interests are**: political philosophy, industrial organization and applied microeconomics.
+
 **Working Papers**:
 
 - [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). Documento de trabajo, 22 - 2023. Instituto de Economía, FCEA - Udelar.
