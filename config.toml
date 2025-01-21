@@ -12,7 +12,7 @@ publishdir = "public"
 author = "Juan Ignacio Urruty"
 title = "Juan Ignacio Urruty"
 
-theme = "hugo-goa"
+theme = "tema"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
