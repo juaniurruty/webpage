@@ -8,17 +8,11 @@ draft: false
 
 **Working Papers**:
 
+- [**Negociación colectiva y género: el impacto de las cláusulas de género en el mercado laboral uruguayo**](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/48151). Tesis de Maestría en Economía, FCEA, Udelar. Defendida el 02/10/2024.
+
 - [**Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-trabajo/item/empleo-garantizado-por-el-estado-y-renta-b-asica-universal-estrategias-para-enfrentar-el-problema-estructural-del-empleo-precario.html). Documento de trabajo, 22 - 2023. Instituto de Economía, FCEA - Udelar.
 
 - [**Justicia e incentivos: desde la competencia hacia la cooperación**](https://iecon.fcea.udelar.edu.uy/es/publicaciones/produccion-del-iecon/documentos-de-investigacion-estudiantil/item/justicia-e-incentivos-desde-la-competencia-hacia-la-cooperacion.html). Documento de investigación estudiantil, 03 - 2023. Instituto de Economía, FCEA - Udelar.
-
-
-
-**Work in progress**:
-
-- Collective Bargaining and Gender: The impact of gender clauses in the uruguayan labor market. Master in Economics Thesis.
-
-- An analysis of public procurement and retails markets for a variety of goods. Research Initiation Project, CSIC - Udelar.
 
 
 
