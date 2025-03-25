@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Juan Ignacio Urruty"
-intro = "Economics & Philosophy"
+intro = "Economía & Filosofía"
 #description = "Ayudante en investigación y enseñanza. Departamento de Economía, FCEA-Udelar"
 authorimage = "perfil2.png"
 dateformat = "Jan 2, 2006"
@@ -91,17 +91,17 @@ displayrssicon = true
     identifier = "Posts"
     url = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "Sobre mí"
     identifier = "about"
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "Research"
+    name = "Investigación"
     identifier = "Research"
     weight = 300
     url = "/research/"
 [[menu.main]]
-    name = "Teaching"
+    name = "Enseñanza"
     identifier = "Teaching"
     weight = 400
     url = "/teaching/"
@@ -109,4 +109,4 @@ displayrssicon = true
     name = "CV"
     identifier = "CV"
     weight = 500
-    url = "https://www.dropbox.com/scl/fi/t5ms6qi9rak3pbbf66w2s/CV-Eng-Juan-Ignacio-Urruty.pdf?rlkey=wd2wd9mzw0mrtqt2xpwjo1akk&st=p0c2rtzv&dl=0"
+    url = "https://www.dropbox.com/scl/fi/w8z347wvrmlz12eu8uzey/CV-Juan-Ignacio-Urruty.pdf?rlkey=rhj1qa9xfz3i5j6fkgjqy3vc3&st=ivc62zxg&dl=0"

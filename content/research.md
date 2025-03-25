@@ -1,12 +1,12 @@
 ---
-title: "Research"
+title: "Investigación"
 #date: 2023-07-27T17:11:22-03:00
 draft: false
 ---
 
-**My research interests are**: political philosophy, industrial organization and applied microeconomics.
+**Mis líneas de interés son:** filosofía política, organización industrial y microeconomía aplicada.
 
-**Working Papers**:
+**Documentos de trabajo:**
 
 - [**Negociación colectiva y género: el impacto de las cláusulas de género en el mercado laboral uruguayo**](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/48151). Tesis de Maestría en Economía, FCEA, Udelar. Defendida el 02/10/2024.
 
