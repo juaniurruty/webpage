@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Ignacio Urruty</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Juan Ignacio Urruty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enseñanza</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>Licenciatura en Economía - FCEA, Udelar:&#xA;2025: Unidad de Actividades de Difusión Académica Programa&#xA;2024: Ética, economía y justicia. Programa&#xA;2023: Ética, economía y justicia. Programa</description>
+    </item>
+    <item>
+      <title>Investigación</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>Mis líneas de interés son: filosofía política, organización industrial y microeconomía aplicada.&#xA;Documentos de trabajo:&#xA;Negociación colectiva y género: el impacto de las cláusulas de género en el mercado laboral uruguayo. Tesis de Maestría en Economía, FCEA, Udelar. Defendida el 02/10/2024.&#xA;Empleo Garantizado por el Estado y Renta Básica Universal: estrategias para enfrentar el problema estructural del empleo precario. Documento de trabajo, 22 - 2023. Instituto de Economía, FCEA - Udelar.</description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>Participación en Mesa redonda: “Sociedades trabajo-céntricas y protección social: entendiendo la multidimensionalidad del problema” FLACSO, Argentina (May 16, 2024).&#xA;Justicia distributiva e incentivos económicos, ¿son compatibles? Blog del Departamento de Economía - FCEA, Udelar (Jun 6, 2023).</description>
+    </item>
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Me desempeño como ayudante de investigación y enseñanza en el Departamento de Economía de la Facultad de Ciencias Económicas y de Administración - Universidad de la República (Udelar).&#xA;Formo parte del grupo de investigacón Ética, Justicia y Economía del Instituto de Economía. A su vez, soy parte del equipo docente de las siguientes unidades curriculares de la licenciatura en economía:&#xA;Ética, economía y justicia. Programa Unidad de Actividades de Difusión Académica.</description>
+    </item>
+  </channel>
+</rss>
