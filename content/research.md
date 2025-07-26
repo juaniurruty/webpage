@@ -8,7 +8,7 @@ draft: false
 
 **Publicaciones:**
 
-- **Is Job Guarantee a solution to work precarisation? A normative analysis and an empirical approach for the Uruguayan case**. Con Andrés Dean, Fernanda Diab, Juan Olano, Ivone Perazzo, Agustín Reyes y Guillermo Sanchez-Laguardia. Aceptado en International Journal of Social Welfare, 2025
+- [**Is Job Guarantee a solution to work precarisation? A normative analysis and an empirical approach for the Uruguayan case**](https://onlinelibrary.wiley.com/doi/10.1111/ijsw.70032). Con Andrés Dean, Fernanda Diab, Juan Olano, Ivone Perazzo, Agustín Reyes y Guillermo Sanchez-Laguardia. International Journal of Social Welfare, Volume 34, Issue 4, 2025
 
 **Documentos de trabajo:**
 
