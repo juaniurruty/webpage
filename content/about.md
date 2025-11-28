@@ -21,4 +21,4 @@ Mi formación académica se conforma de la siguiente manera:
 - Licenciatura en Filosofía - FHUCE, Udelar
 - Licenciatura en Economía - FCEA, Udelar
 
-Mi CV se encuentra disponible [**aquí**](https://www.dropbox.com/scl/fi/w8z347wvrmlz12eu8uzey/CV-Juan-Ignacio-Urruty.pdf?rlkey=rhj1qa9xfz3i5j6fkgjqy3vc3&st=ivc62zxg&dl=0).
+Mi CV se encuentra disponible [**aquí**](https://export.cvuy.uy/cv/?651221302f6f31ceedc585451c0e3dcf).
