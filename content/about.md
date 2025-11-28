@@ -4,14 +4,11 @@ title: "Sobre mí"
 draft: false
 ---
 
-Me desempeño como ayudante de investigación y enseñanza en el Departamento de Economía de la Facultad de Ciencias Económicas y de Administración - Universidad de la República (Udelar).
+Me desempeño como ayudante de investigación y enseñanza en el Departamento de Economía de la Facultad de Ciencias Económicas y de Administración (FCEA) - Universidad de la República (Udelar).
 
-Formo parte del grupo de investigacón [**Ética, Justicia y Economía**](https://iecon.fcea.udelar.edu.uy/es/grupos-de-investigacion/etica-justicia-y-economia.html) del Instituto de Economía. A su vez, soy parte del equipo docente de las siguientes unidades curriculares de la licenciatura en economía:
+Formo parte del grupo de investigación [**Ética, Justicia y Economía**](https://iecon.fcea.udelar.edu.uy/es/grupos-de-investigacion/etica-justicia-y-economia.html) del Instituto de Economía (IECON). A su vez, soy parte del equipo docente de la Unidad Curricular Ética, economía y justicia ([**Programa**](https://www.fcea.udelar.edu.uy/images/micrositios/bedelia/fichas_UC/2024/PAR/S41_2024_02_%C3%89tica_Econom%C3%ADa_y_Justicia.pdf)) de la licenciatura en economía FCEA, Udelar.
 
-- Ética, economía y justicia. [**Programa**](https://www.fcea.udelar.edu.uy/images/micrositios/bedelia/fichas_UC/2024/PAR/S41_2024_02_%C3%89tica_Econom%C3%ADa_y_Justicia.pdf)
-- Unidad de Actividades de Difusión Académica. [**Programa**](https://fcea.udelar.edu.uy/images/micrositios/dpto_economia/FICHA_UNIDAD_DE_ACTIVIDADES_DE_DIFUSI%C3%93N_ACAD%C3%89MICA_2025.pdf)
-
-Asimismo, me desempeño como ayudante de investigación y apoyo a la dirección del [**Instituto de Justicia Social y Desigualdades**](https://investigacion.udelar.edu.uy/instituto-justicia-desigualdades/), Universidad de la República.
+Asimismo, me desempeño como ayudante de investigación y apoyo a la dirección del [**Instituto de Justicia Social y Desigualdades**](https://investigacion.udelar.edu.uy/instituto-justicia-desigualdades/) (IJD), Udelar.
 
 Mis líneas de interés son las siguientes: filosofía política, organización industrial y microeconomía aplicada.
 
